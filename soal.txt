@@ -1,0 +1,11 @@
+Pilihlah salah satu soal di bawah ini, satu soal hanya boleh dikerjakan oleh 1 orang!
+
+1. Jika seseorang ingin melihat perbedaan kode yang sedang ia ketik dan yang sebelumnya (pull terakhir), command apa yang harus ia gunakan dan bagaimana outputnya?
+2. Pada repository ini, terdapat satu commit yang berjudul "troll commit" yang sudah direvert, cari hash-id commit itu! (bukan hash-id revert commitnya)
+3. Apa itu merge conflict? Berikan analoginya!
+4. Sebelum berpindah dari workspace ke local repository, kemana letaknya file setelah git add?
+5. Pada repository ini, terdapat satu commit yang berjudul "troll commit" yang sudah direvert, cari hash-id revert commitnya!
+6. Dari GitHub, cari perbedaan readme pada commit "add readme" dengan readme yang sekarang!
+7. Jelaskan perbedaan alur git merge dan pull request!
+8. Apa bedanya git init dan git clone? Kapan harus menggunakan init dan kapan harus menggunakan clone?
+9. Kapan kita harus menggunakan git pull dengan 'origin' dan yang tidak dengan 'origin'?
