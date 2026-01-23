@@ -1,4 +1,4 @@
-Pilihlah salah satu soal di bawah ini, satu soal hanya boleh dikerjakan oleh 1 orang!
+Pilihlah salah satu soal di bawah ini, satu soal hanya boleh dikerjakan oleh 1 junior staff!
 
 1. Jika seseorang ingin melihat perbedaan kode yang sedang ia ketik dan yang sebelumnya (pull terakhir), command apa yang harus ia gunakan dan bagaimana outputnya?
 2. Pada repository ini, terdapat satu commit yang berjudul "troll commit" yang sudah direvert, cari hash-id commit itu! (bukan hash-id revert commitnya)
