@@ -1,0 +1,24 @@
+Nama : Muhammad Gauza Faliha 
+Kelas : KOM A (hehe)
+NIM : 25/555851/PA/23315
+
+Pilihlah salah satu soal di bawah ini, satu soal hanya boleh dikerjakan oleh 1 junior staff!
+
+1. Jika seseorang ingin melihat perbedaan kode yang sedang ia ketik dan yang sebelumnya (pull terakhir), command apa yang harus ia gunakan dan bagaimana outputnya?
+Jawaban :
+command yang harus ia gunakan adalah git diff 
+Alasan : Karena git diff setau saya digunakan untuk melihat perbedaan antara working directory nya dia (Yang sedang diketik/belum di add) dengan staging area atau commit (pull) terakhir 
+hmmm, buat outputnya itu nanti kurang lebih seperti ini :
+
+diff --git a/soal.txt b/soal.txt
+index 1234567..abcdefg 100644
+--- a/soal.txt
++++ b/soal.txt
+@@ -1,3 +1,4 @@
+ Baris yang sama
+-Baris yang dihapus
++Baris yang ditambahkan
+
+Keterangan:
+- Tanda - (merah) = baris yang dihapus
+- Tanda + (hijau) = baris yang ditambahkan
