@@ -1,0 +1,5 @@
+Kapan kita harus menggunakan git pull dengan 'origin' dan yang tidak dengan 'origin'? 
+
+Jawab: 
+- git pull origin main dipakai saat mau ambil update dari repo online (origin) di branch main.
+- git pull dipakai dalam kondisi yang sama, tapi branch nya sudah tersambung ke origin/main, jadi Git otomatis tau harus ambil darimana tanpa ditulis lagi.

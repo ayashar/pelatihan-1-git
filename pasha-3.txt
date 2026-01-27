@@ -1,0 +1,6 @@
+
+Merge conflict adalah kondisi yang terjadi saat sistem kontrol versi (seperti Git) tidak dapat secara otomatis menggabungkan perubahan kode dari dua branch yang berbeda.
+Ini biasanya terjadi ketika dua orang (atau lebih) mengubah baris kode yang sama di dalam file yang sama, lalu mencoba menyatukannya. Karena Git bingung harus memenangkan perubahan yang mana, ia akan berhenti dan meminta bantuan manusia untuk memutuskan versi mana yang benar.
+
+analogi: misal di sebuah file docs aku mengubah kalimat pertama sebuah naskah menjadi "blackpink comeback" disaat yang sama teman ku juga mengubah kalimat yang sama menjadi "blackpink bubar". Saat mencoba menyatukan naskah, muncul konflik. naskah tersebut tidak bisa memiliki dua hal yang berbeda di kalimat yang sama secara bersamaan. sehingga editor(git) akan bertanya versi mana yang benar 
+

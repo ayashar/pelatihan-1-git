@@ -1,0 +1,6 @@
+Helen 
+
+4. Sebelum berpindah dari workspace ke local repository, kemana letaknya file setelah git add?
+Jawab: Setelah memberikan perintah git add dijalankan, file yang sebelumnya berada di working directory akan dimasukkan 
+ke dalam staging area. Staging area menjadi tempat sementara sebelum file disimpan secara permanen ke local repository
+menggunakan perintah git commit.
