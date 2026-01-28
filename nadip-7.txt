@@ -1,0 +1,6 @@
+Nadip ngerjain soal nomor 7
+
+Jelaskan perbedaan alur git merge dan pull request!
+
+Jawab:
+Git Merge merupakan perintah untuk menggabungkan satu branch dengan branch lain. Karena ini merupakan coding/perintah maka akan langsung tereksekusi ketika dilakukan. Sedangkan untuk Pull Request mengarah kepada situasi dimana ketika kita ingin misalnya merge dua branch tetapi kita membutuhkan persetujuan reviewer untuk mengubah teks tersebut. Hail ini baik untuk kolaborasi perkerjaan karena mengurangi keraguan antara kolaborator.
