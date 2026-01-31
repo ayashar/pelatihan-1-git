@@ -1,0 +1,9 @@
+8. Apa bedanya git init dan git clone? Kapan harus menggunakan init dan kapan harus menggunakan clone?
+
+Git init berfungsi untuk membuat repository Git baru dari nol di folder lokal. Perintah ini mengubah folder biasa menjadi repository Git dengan membuat folder .git, namun belum memiliki remote repository maupun history commit.
+Git init digunakan ketika ingin memulai project baru yang belum memiliki repository di GitHub, atau ketika file sudah ada di laptop tetapi belum menggunakan Git. 
+
+Git clone berfungsi untuk menyalin repository yang sudah ada dari remote repository seperti GitHub. Perintah ini menyalin seluruh isi repository, termasuk history commit, branch, serta langsung mengatur remote origin.
+Git clone digunakan ketika repository sudah ada di GitHub dan kita bertindak sebagai kontributor untuk mengerjakan project bersama.
+
+Kesimpulannya, jika repository sudah ada di remote, maka gunakan git clone. Sedangkan untuk membuat repository baru dari awal, gunakan git init.
